@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am kirill998 on github.
+  * I am jesus_reborn (https://keybase.io/jesus_reborn) on keybase.
+  * I have a public key ASAy39d0paTI0pP0LfOGMNs3RHUUFhc17ARnSEXTCjJNoQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012032dfd774a5a4c8d293f42df38630db37447514161735ec04674845d30a324da10a",
+      "host": "keybase.io",
+      "kid": "012032dfd774a5a4c8d293f42df38630db37447514161735ec04674845d30a324da10a",
+      "uid": "d52d03a8b3b836a18728eb87ea673319",
+      "username": "jesus_reborn"
+    },
+    "merkle_root": {
+      "ctime": 1568286481,
+      "hash": "58273328419339f965348a7e1196c5a31354ff3617870cbd6badc4eadf08529cacf4aee95f35822ed66b18af8b438b1536e78494b2af4e287602d33da0671b1d",
+      "hash_meta": "8437708b640da359236c7cf310436bcfa1f5eb670fe680745ab793b690c6b760",
+      "seqno": 6952593
+    },
+    "service": {
+      "entropy": "Wtc6drbEgKaAW6o8Uuioj4cL",
+      "name": "github",
+      "username": "kirill998"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568286491,
+  "expire_in": 504576000,
+  "prev": "f79d2f57f6f959ff34b5ef72155060b2af4132ac279c0cbe27f06e4da89d2e21",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASAy39d0paTI0pP0LfOGMNs3RHUUFhc17ARnSEXTCjJNoQo](https://keybase.io/jesus_reborn), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMt/XdKWkyNKT9C3zhjDbN0R1FBYXNewEZ0hF0woyTaEKp3BheWxvYWTESpcCCcQg950vV/b5Wf80te9yFVBgsq9BMqwnnAy+J/BuTaidLiHEIP4GUltAamF/cBJeTZJTYRm/y1PN6u+Hx8l+Z70TjogWAgHCo3NpZ8RAhaQ/drxQjBuZUEECgaT7aWWD4drCkCNihRPeS3PB+LJVtCVHNxa0cdSb4/D/wBJy8dm9UMLymtpumx6EBjxSCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGllqV6APEjBG146qsqDY5nXbN6PGVgJiV3JDagornhpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jesus_reborn
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jesus_reborn
+```
